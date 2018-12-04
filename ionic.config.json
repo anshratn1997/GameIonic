@@ -1,0 +1,7 @@
+{
+  "name": "GameIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
